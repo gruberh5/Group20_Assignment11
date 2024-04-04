@@ -9,8 +9,8 @@
 <body>
     <form id="form1" runat="server">
         <div>
-
-        </div>
-    </form>
-</body>
-</html>
+            <asp:Table ID="tblHotelReservations" runat="server" BackColor="Green">
+                <asp:TableRow>
+                    <asp:TableCell>
+                        <asp:label text="Happy Hotel Reservation System" runat="server" />
+                    </asp:TableCell></asp:TableRow></asp:Table></div></form></body></html>
